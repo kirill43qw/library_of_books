@@ -33,4 +33,4 @@
    
 ## Тестирование
 
-* `python3 -m unittest tests/tests.py` - запуск тествов
+* `python3 -m unittest tests/tests.py` - запуск тестов
