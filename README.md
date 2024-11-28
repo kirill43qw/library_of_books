@@ -39,3 +39,6 @@
 *   `git clone https://github.com/yourusername/library-system.git && cd library-system` - клонируёте репозиторий
 *   `python3 core/main.py` - запуск скрипта
    
+## Установка и запуск
+
+* `python3 -m unittest tests/tests.py` - запуск тествов
